@@ -1,5 +1,5 @@
 Package: com.iqasim90.cracktool3
-Version: 3.0
+Version: 3.0˜beta4
 Architecture: iphoneos-arm
 Maintainer: iQasim90 <qalbalushi90@gmail.com>
 Filename: cracktool3.deb
@@ -13,7 +13,7 @@ Name: Crack Tool 3
 
 
 Package: com.iqasim90.filzafilemanager
-Version: 3.0
+Version: 3.4.0-2k
 Architecture: iphoneos-arm
 Maintainer: iQasim90 <qalbalushi90@gmail.com>
 Filename: filzafilemanager.deb
