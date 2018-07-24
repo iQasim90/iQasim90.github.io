@@ -1,5 +1,5 @@
 Package: com.iqasim90.filzafilemanager
-Name: filza file manager 
+Name: filza file manager
 Version: 3.0
 Size: 10019646
 Architecture: iphoneos-arm
@@ -7,8 +7,4 @@ Description: edit system files
 Maintainer: iQasim90 <qalbalushi90@gmail.com>
 Author: iQasim90 <qalbalushi90@gmail.com>
 Section: Tweaks
-MD5sum:439b0381d6ccd3f3b91762b78587132f
-SHA1sum:f9b8089e9fc176a02def1852f08f62c4c7d3ecc7
-SHA256sum:e88aeaf3aed34e4c497808fc9950055954e3742d857d6eefa2ef181111ab6b3a
 Filename: filzafilemanager.deb
-
