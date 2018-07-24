@@ -27,3 +27,18 @@ Author: iQasim
 Name: Filza file Manager 
 
 
+Package: com.iqasim90.filzafilemanager
+Architecture: iphoneos-arm
+Version: 3.4.0-2k
+Section: Tweaks
+Maintainer: iQasim90
+Depends: Tweaks
+Filename: ./com.iQasim90.filzafilemanager_3.4.0-2k_iphoneos-arm.debc
+Size: 10019646
+MD5sum: 439b0381d6ccd3f3b91762b78587132f
+Description: dit ur system files
+Name: Filza file Manager
+Author: iQasim
+Depiction: http://iQasim90.github.io/description.html?id=com.iQasim90.cracktool3
+
+
