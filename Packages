@@ -1,28 +1,3 @@
-Package: com.iqasim90.filzafilemanager
-Name: filza file manager
-Version: 3.0
-Size: 10019646
-Architecture: iphoneos-arm
-Description: edit system files
-Maintainer: iQasim90 <qalbalushi90@gmail.com>
-Author: iQasim90 <qalbalushi90@gmail.com>
-Section: Tweaks
-MD5sum: 439b0381d6ccd3f3b91762b78587132f
-Filename: filzafilemanager.deb
-
-
-Package: com.iqasim90.cracktool3
-Name: Crack tool 3
-Version: 3.0
-Size: 120634
-Architecture: iphoneos-arm
-Description: edit system files
-Maintainer: iQasim90 <qalbalushi90@gmail.com>
-Author: iQasim90 <qalbalushi90@gmail.com>
-Section: Tweaks
-MD5sum: 4f8d3b3b4e8bd3e91326f2fd2ed080ed1
-Filename: cracktool3.deb
-
 
 Package: com.iqasim90.cracktool3
 Version: 3.0
@@ -37,3 +12,18 @@ Section: Tweaks
 Description: crack ur tweaks
 Author: iQasim
 Name: Crack Tool 3
+
+
+Package: com.iqasim90.filzafilemanager
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: iQasim90 <qalbalushi90@gmail.com>
+Filename: filzafilemanager.deb
+Size: 10019646
+MD5sum: 439b0381d6ccd3f3b91762b78587132f
+SHA1: f9b8089e9fc176a02def1852f08f62c4c7d3ecc7
+SHA256: e88aeaf3aed34e4c497808fc9950055954e3742d857d6eefa2ef181111ab6b3a
+Section: Tweaks
+Description: edit ur system files
+Author: iQasim
+Name: Filza file Manager 
