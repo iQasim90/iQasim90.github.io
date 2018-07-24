@@ -27,3 +27,19 @@ Section: Tweaks
 Description: edit ur system files
 Author: iQasim
 Name: Filza file Manager 
+
+
+
+Package: com.iqasim90.filzafilemanager
+Version: 3.0
+Section: Tweaks
+Maintainer: iQasim90 <qalbalushi90@gmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/filzafilemanager.deb
+Size: 10019646
+MD5sum: 439b0381d6ccd3f3b91762b78587132f
+Description: edit ur system file
+Name: Filza file manager 
+Author: iQasim90
+Depiction: https://iQasim90.github.io/iQasim90/depictions/filzafilemanager
