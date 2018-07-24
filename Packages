@@ -1,4 +1,3 @@
-
 Package: com.iqasim90.cracktool3
 Version: 3.0
 Architecture: iphoneos-arm
@@ -10,7 +9,6 @@ SHA1: 8fa0f82b3e07b74602b71425aef227881b14b052
 SHA256: 0a306115f1c4a629e9c57b745aa69585b444b1ef238c9210ad997ef33bde8610
 Section: Tweaks
 Description: crack ur tweaks
-Author: iQasim
 Name: Crack Tool 3
 
 
