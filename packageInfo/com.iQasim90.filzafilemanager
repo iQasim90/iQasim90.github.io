@@ -1,0 +1,9 @@
+{
+	"name": "filza file manager",
+	"desc_short": "edit ur system files ",
+	"desc_long": "Features:<p>- Update Hider;<br>- History List Remove;<p>Configure Options From Settings.",
+	"compatitle": "iOS 10, 11",
+	"changelog": "<strong>3.4.0-2k</strong><br>+ Update Hider;<br><strong>3.4.0-2k</strong><br>+ Initial Release<br>",
+	"screenshot": null,
+	"open": true,
+}
