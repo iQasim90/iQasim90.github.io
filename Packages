@@ -22,3 +22,18 @@ Author: iQasim90 <qalbalushi90@gmail.com>
 Section: Tweaks
 MD5sum: 4f8d3b3b4e8bd3e91326f2fd2ed080ed1
 Filename: cracktool3.deb
+
+
+Package: com.iqasim90.cracktool3
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: iQasim90 <qalbalushi90@gmail.com>
+Filename: cracktool3.deb
+Size: 120634
+MD5sum: 4f8d3b3b4e8bd3e91326f2fd2ed080ed1
+SHA1: 8fa0f82b3e07b74602b71425aef227881b14b052
+SHA256: 0a306115f1c4a629e9c57b745aa69585b444b1ef238c9210ad997ef33bde8610
+Section: Tweaks
+Description: crack ur tweaks
+Author: iQasim
+Name: Crack Tool 3
